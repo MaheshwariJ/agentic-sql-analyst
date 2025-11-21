@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 fastapi
 uvicorn[standard]
 openai
@@ -6,4 +7,14 @@ pandas
 streamlit
 python-dotenv
 pytest
+=======
+fastapi
+uvicorn[standard]
+openai
+duckdb
+pandas
+streamlit
+python-dotenv
+pytest
+>>>>>>> acc3985d32f0def75a7e06bdff25fe7a10b67250
 altair
