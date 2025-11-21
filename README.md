@@ -1,10 +1,6 @@
 # Agentic SQL Analyst (NL → SQL → Charts)
 
-<<<<<<< HEAD
-**One-month MVP**: an agent that converts natural language questions into SQL, executes the SQL against a local DuckDB dataset, attempts automatic fixes for failing queries, and returns a dataframe + suggested visualization.
-=======
-**Simple MVP**: an agent that converts natural language questions into SQL, executes the SQL against a local DuckDB dataset, attempts automatic fixes for failing queries, and returns a dataframe + suggested visualization.
->>>>>>> acc3985d32f0def75a7e06bdff25fe7a10b67250
+An agent that converts natural language questions into SQL, executes the SQL against a local DuckDB dataset, attempts automatic fixes for failing queries, and returns a dataframe + suggested visualization.
 
 ## Highlights
 - NL → SQL using an LLM
